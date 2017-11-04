@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>bmi</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>bmi</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>bmi\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>bmi\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>
